@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [Here at GitHub](Here at GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/aitrecper?tab=repositories)
 
 - 📫 How to reach me **aitrecper@gmail.com**
 
-- 📄 Know about my experiences [Linkedin profile](Linkedin profile)
+- 📄 Know about my experiences [Linkedin profile](linkedin.com/in/aitrecper/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
